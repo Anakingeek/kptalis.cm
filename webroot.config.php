@@ -1,5 +1,5 @@
 <?php
 
-define("WEBROOT","/kptalis.cm");
+$base = '/kptalis.cm/';
 
 ?>

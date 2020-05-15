@@ -1,2 +1,0 @@
-<?php  ?>
-PAGE INTROUVABLE!!

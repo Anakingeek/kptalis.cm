@@ -1,0 +1,16 @@
+{
+    "description": "",
+    "name": "anakeen/kptalis.cm",
+    "authors": [
+        {
+            "name": "LaBriz",
+            "email": "anakingeek@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^5.0"
+    },
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    }
+}
