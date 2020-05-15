@@ -1483,7 +1483,7 @@ ul.navbar-nav>li.header-get-a-quote:hover>a:after {
 /* Owl Box slider */
 
 .box-slider-content {
-    top: 50%;
+    top: 71%;
     padding: 0;
     position: absolute;
     width: 100%;
@@ -2734,7 +2734,7 @@ img.testimonial-thumb {
 
 .banner-area {
     position: relative;
-    min-height: 300px;
+    min-height: 500px;
     color: #fefeff;
     background-position: 75% 25%;
     -webkit-background-size: cover;
@@ -3676,7 +3676,7 @@ img.banner-logo{
 }
 /***End of custom css for news***/
 
-/* Custom colors
+/* Other Custom css
 ================================================== */
 .kapi-blue {
     background: none;
@@ -3712,3 +3712,12 @@ img.banner-logo{
     color: #f7fbff;
     border-color: #f7fbff;
 }
+
+.landing-area {
+    position: relative;
+    height: 420px;
+    background-position: 75% 25%;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+

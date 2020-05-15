@@ -2,89 +2,18 @@
 
 ?>
 
-<!-- Carousel -->
-<div id="" class="owl-carousel owl-theme page-slider owl-loaded owl-drag">
+<div id="banner-area" class="landing-area" style="background-image:url(utils/images/future.jpg)">
+	<div class="container">
+		<div class="box-slider-content">
+			<div class="box-slider-text">
+				<h2 class="box-slide-title">Let's build the Future</h2>
+				<h3 class="box-slide-sub-title">Construisons l'Avenir</h3>
+				<p class="box-slide-description">Négoce & Intermédiation Financière | BTP | Production Agroalimentaire</p>
+			</div>
+		</div>
+	</div>
 
-    <div class="owl-stage-outer">
-        <div class="owl-stage" style="width: 7866px; transform: translate3d(-3933px, 0px, 0px); transition: all 0s ease 0s;">
-            <div class="owl-item cloned" style="width: 1311px;">
-                <div class="item" style="background-image:url(utils/images/slider-main/bg4.jpg)">
-                    <div class="container">
-                        <div class="box-slider-content">
-                            <div class="box-slider-text">
-                                <h2 class="box-slide-title">17 Years Of Excellence In</h2>
-                                <h3 class="box-slide-sub-title">Construction Industry</h3>
-                                <p class="box-slide-description">You have ideas, goals, and dreams. We have a culturally diverse, forward
-                                    thinking team looking for talent like.</p>
-                                <p>
-                                    <a href="services.html" class="slider btn btn-primary">Our Service</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="owl-item cloned" style="width: 1311px;">
-                <div class="item" style="background-image:url(utils/images/slider-main/bg5.jpg)">
-                    <div class="container">
-                        <div class="box-slider-content">
-                            <div class="box-slider-text">
-                                <h2 class="box-slide-title">When Services Matters</h2>
-                                <h3 class="box-slide-sub-title">Your Choice is Simple</h3>
-                                <p class="box-slide-description">You have ideas, goals, and dreams. We have a culturally diverse, forward
-                                    thinking team looking for talent like.</p>
-                                <p>
-                                    <a href="about.html" class="slider btn btn-primary">Know Us</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="owl-item" style="width: 1311px;">
-                <div class="item" style="background-image:url(utils/images/slider-main/bg4.jpg)">
-                    <div class="container">
-                        <div class="box-slider-content">
-                            <div class="box-slider-text">
-                                <h2 class="box-slide-title">17 Years Of Excellence In</h2>
-                                <h3 class="box-slide-sub-title">Construction Industry</h3>
-                                <p class="box-slide-description">You have ideas, goals, and dreams. We have a culturally diverse, forward
-                                    thinking team looking for talent like.</p>
-                                <p>
-                                    <a href="services.html" class="slider btn btn-primary">Our Service</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-            <div class="owl-item active" style="width: 1311px;">
-                <div class="item" style="background-image:url(utils/images/slider-main/bg5.jpg)">
-                    <div class="container">
-                        <div class="box-slider-content">
-                            <div class="box-slider-text">
-                                <h2 class="box-slide-title">When Services Matters</h2>
-                                <h3 class="box-slide-sub-title">Your Choice is Simple</h3>
-                                <p class="box-slide-description">You have ideas, goals, and dreams. We have a culturally diverse, forward
-                                    thinking team looking for talent like.</p>
-                                <p>
-                                    <a href="about.html" class="slider btn btn-primary">Know Us</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="owl-nav">
-        <div class="owl-prev"><i class="fa fa-angle-left"></i></div>
-        <div class="owl-next"><i class="fa fa-angle-right"></i></div>
-    </div>
-    <div class="owl-dots disabled"></div>
 </div>
-<!--/ Carousel end -->
 
 <section id="" class="main-container">
     <div class="container">
@@ -170,7 +99,10 @@
 				<div class="owl-theme">
 					<div class="item">
 						<div class="quote-item">
-							<blockquote><p><b><i>Nous mettons l'Homme au centre de nos préoccupations et son bien-être est notre finalité</i></b></p></blockquote>
+							<!-- blockquote><p><b><i></i></b></p></blockquote -->
+							<span class="quote-text">
+								<b>Nous mettons l'Homme au centre de nos préoccupations et son bien-être est notre finalité.</b>
+							</span>
 							<div class="quote-item-footer">
 								<div class="quote-item-info">
 									<h3 class="quote-author">Adal SAMNICK</h3>
